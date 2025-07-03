@@ -8,6 +8,9 @@ Update   | WhatsApp Connection
          | authSystem without api
          | Added & Replaced Bugs Function
          | Simple Ui
+Version 1.0.2
+
+Update   | Changes WhatsApp-Limit Connection
 
 ```
 
